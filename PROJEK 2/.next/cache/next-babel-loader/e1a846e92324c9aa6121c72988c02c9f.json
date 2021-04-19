@@ -1,0 +1,1 @@
+{"ast":null,"code":"var title = '';\nvar description = '';","map":{"version":3,"sources":["E:/PEMOGRAMAN WEB/web/myapp/next-seo.config.js"],"names":["title","description"],"mappings":"AAAA,IAAMA,KAAK,GAAG,EAAd;AACA,IAAMC,WAAW,GAAE,EAAnB","sourcesContent":["const title = '';\nconst description ='';\n\n"]},"metadata":{},"sourceType":"script"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"var title = 'RENDY DWI PUTRA';\nvar description = '';","map":{"version":3,"sources":["E:/PEMOGRAMAN WEB/web/myapp/next-seo.config.js"],"names":["title","description"],"mappings":"AAAA,IAAMA,KAAK,GAAG,iBAAd;AACA,IAAMC,WAAW,GAAE,EAAnB","sourcesContent":["const title = 'RENDY DWI PUTRA';\nconst description ='';\n"]},"metadata":{},"sourceType":"script"}
